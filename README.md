@@ -5,7 +5,7 @@ This website provides summaries of the key ideas and concepts from books using t
 The content of this website is created via LLMs, and it is possible that some of the information provided may be inaccurate.
 
 ## Instructions
-To learn more about the prompts used to generate the content on this website or to contribute to the project, please visit the instructions page.
+To learn more about the prompts used to generate the content on this website or to contribute to the project, please visit the [instructions page](/instructions.html).
 
 ## Categories
 
