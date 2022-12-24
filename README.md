@@ -9,6 +9,6 @@ To learn more about the prompts used to generate the content on this website or 
 
 ## Categories
 
-### [Software development](/Bibliot/software-development/index.html)
+### [Software development](/software-development/index.html)
 
 ### [Artificial intelligence](/Bibliot/artificial-intelligence/index.html)
