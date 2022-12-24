@@ -9,6 +9,10 @@ To learn more about the prompts used to generate the content on this website or 
 
 ## Categories
 
+### [Management](/categories/management.html)
+
 ### [Software development](/categories/software-development.html)
+
+### [Personal development](/categories/personal-development.html)
 
 ### [Artificial intelligence](/categories/artificial-intelligence.html)
