@@ -6,12 +6,12 @@
 5. To generate content for a specific section of a book's outline, create a prompt in the following format: "Elaborate on "[SECTION NAME]" with more than 500 words". For example: "Elaborate on "II. The Importance of Monopoly" with more than 500 words". If you are not in the same chat window where you made the outline request, you may need to include the title and authors of the book and ask to elaborate on the specific section."
 
 ### Add new content
-1. Access the Github repository for this project at [https://github.com/Bibliot-org/Bibliot](https://github.com/Bibliot-org/Bibliot).
+1. Access the Github repository for this project at [https://github.com/Bibliot-org/Bibliot/issues](https://github.com/Bibliot-org/Bibliot).
 2. Clone the repository to your local system.
 3. Add your content to the repository.
 4. Create a pull request to submit your changes for review.
 
-If you are not technically proficient, you can still contribute content by creating an issue ([https://github.com/Bibliot-org/Bibliot](https://github.com/Bibliot-org/Bibliot/issues)) and adding your content within the issue.
+If you are not technically proficient, you can still contribute content by creating an issue ([https://github.com/Bibliot-org/Bibliot/issues](https://github.com/Bibliot-org/Bibliot/issues)) and adding your content within the issue.
 
 ### Suggest changes for content
 1. Access the Github repository for this project at [https://github.com/Bibliot-org/Bibliot](https://github.com/Bibliot-org/Bibliot).
