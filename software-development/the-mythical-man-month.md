@@ -123,4 +123,4 @@ Overall, the difficulty of accurately estimating the duration of a software proj
 
 Buy The Mythical Man-Month [here](https://www.amazon.com/-/de/dp/0201835959/)
 
-Edit the text on this page [here](https://github.com/moritzfelipe/alexano/blob/main/software-development/the-mythical-man-month.md)
+Edit the text on this page [here](https://github.com/Bibliot-org/Bibliot/blob/main/software-development/the-mythical-man-month.md)

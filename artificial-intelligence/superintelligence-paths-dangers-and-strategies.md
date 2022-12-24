@@ -109,6 +109,6 @@ One example of AI governance, as discussed by Bostrom, is the development of eth
 
 Overall, the concept of AI governance, as discussed by Bostrom, refers to the policies, regulations, and institutions that are put in place to guide and manage the development and use of AI technology. As AI technology continues to advance, it will be important for society to develop and implement effective policies and regulations for AI technology in order to ensure that it is developed and used in a responsible and ethical manner.
 
-Buy Superintelligence: Paths, Dangers, and Strategies[here](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
+Buy Superintelligence: Paths, Dangers, and Strategies [here](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 
-Edit the text on this page [here](https://github.com/moritzfelipe/alexano/blob/main/artificial-intelligence/superintelligence-paths-dangers-and-strategies.md)
+Edit the text on this page [here](https://github.com/Bibliot-org/Bibliot/blob/main/artificial-intelligence/superintelligence-paths-dangers-and-strategies.md)
