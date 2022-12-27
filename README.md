@@ -9,6 +9,8 @@ To learn more about the prompts used to generate the content on this website or 
 
 ## Categories
 
+### [Business](/categories/business.html)
+
 ### [Management](/categories/management.html)
 
 ### [Software development](/categories/software-development.html)
