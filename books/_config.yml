@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
+  - managing-virtual-teams.md
   - README.md
   - LICENSE.md
   - COPYING.md
